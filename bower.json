@@ -1,0 +1,22 @@
+{
+  "name": "dino",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Gyles Batara <gyles.batara@live.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "moment": "^2.19.3",
+    "jquery": "^3.2.1"
+  }
+}
